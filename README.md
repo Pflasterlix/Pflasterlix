@@ -1,82 +1,70 @@
-<!DOCTYPE html>
-<html lang="en">
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Timo's README</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f8f8f8;
-      color: #333;
-    }
+###
 
-    .container {
-      max-width: 800px;
-      margin: auto;
-      padding: 20px;
-      text-align: center;
-    }
+<p align="left">My name is Timo and I'm a Web Developer, from Germany.</p>
 
-    h1, h2, p {
-      margin-bottom: 20px;
-    }
+###
 
-    img {
-      margin: 10px;
-    }
+<h2 align="left">About me</h2>
 
-    .icon-container {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      flex-wrap: wrap;
-    }
+###
 
-    .stats-container {
-      display: flex;
-      justify-content: space-around;
-      align-items: center;
-      flex-wrap: wrap;
-    }
+<p align="left">📚 I enjoy working on creative projects and am always eager to learn new things. Let's explore the world of technology together!<br><br>🎲 Fun fact: The Mona Lisa has no eyebrows.</p>
 
-    .snake-container {
-      margin-top: 20px;
-    }
-  </style>
-</head>
+###
 
-<body>
-  <div class="container">
-    <h1>Hey 👋 What's up?</h1>
+<h2 align="left">I code with</h2>
 
-    <p>My name is Timo, and I'm a Web Developer from Germany.</p>
+###
 
-    <h2>About me</h2>
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="40" alt="codepen logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+</div>
 
-    <p>📚 I enjoy working on creative projects and am always eager to learn new things. Let's explore the world of technology together!<br><br>🎲 Fun fact: The Mona Lisa has no eyebrows.</p>
+###
 
-    <h2>I code with</h2>
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Pflasterlix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pflasterlix&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-    <div class="icon-container">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-      <!-- Add the rest of your icons here -->
-    </div>
+###
 
-    <div class="stats-container">
-      <img src="https://github-readme-stats.vercel.app/api?username=Pflasterlix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pflasterlix&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-    </div>
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-    <div class="snake-container">
-      <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-    </div>
+###
 
-    <div>
-      <img src="https://profile-counter.glitch.me/Pflasterlix/count.svg?" />
-    </div>
-  </div>
-</body>
+<div align="center">
+<img src="https://profile-counter.glitch.me/Pflasterlix/count.svg?"  />
+</div>
 
-</html>
+###
