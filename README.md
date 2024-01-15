@@ -48,9 +48,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiPflasterlixusername=anuraghazra&theme=neon&show_icons=true)
-
-
 ###
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
