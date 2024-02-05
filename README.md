@@ -47,9 +47,7 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
 </div>
-
-<div class="badge-base LI-profile-badge" data-locale="de_DE" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="timomarz92" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/timomarz92?trk=profile-badge">Timo Marz</a></div>
-              
+        
 ###
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
